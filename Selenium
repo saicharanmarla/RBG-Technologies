@@ -1,0 +1,7 @@
+public class Selenium
+{
+  public static void main()
+  {
+    System.out.println("Selenium");
+    }
+  }
